@@ -20,3 +20,9 @@ body{
     transition: all 0.40s
     cursor: pointer;
 }
+
+#link{
+    font-style: Arial;
+    font-size: 30px;
+    color: black;
+}
